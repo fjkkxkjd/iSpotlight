@@ -169,3 +169,4 @@ The Unity project code for pico4 pro will be made available in our GitHub reposi
 Our dataset can be accessed via OneDrive: [\[OneDrive link\]](https://1drv.ms/f/c/ab8db1e1fd9a0c0c/EiPCQo9g0PpPi1UTGIXbvooBynY_i3nLDSobJWRmfVEZLA?e=xFd3FY).
 Once downloaded, place the weights in the `weights/` directory in the project folder. Ensure that the necessary pre-trained models (e.g., `yolo_best.pt`, `large-v3.pt`) are properly located for the system to function correctly.
 If any issues arise, we will update the latest progress on these platforms.
+Additionally, the resource package for our Unity-based VR project Education_2 can also be accessed via OneDrive. In this VR scene, it is possible to simulate classroom lessons and collect eye-tracking data, head posture data, and facial expression data during video playback. The device used is Pico 4pro, and the Unity version is 2022.3.24f1.
