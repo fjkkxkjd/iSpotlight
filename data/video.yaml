@@ -1,0 +1,8 @@
+path: visual_elements_detection_data/dataset_1
+train: train.txt
+val: val.txt  
+test: test.txt  
+
+# Classes
+names:
+  0: image
